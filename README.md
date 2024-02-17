@@ -1,1 +1,1 @@
-it simply block which function asked LoggingSystem_IsChannelEnabled
+It just blocks the function from asking LoggingSystem_IsChannelEnabled
